@@ -2,12 +2,9 @@
   <head>
   </head>
   <body>
+    <p>The goal of this project was to prepare a game report for a pitching coach, and then provide an evaluation of the pitcher's performance. Performance     was limited to release speed. </p>
     <h1>Biomechanics Game Report: 2022-10-28</h1>
     <h3>Justin Verlander</h3>
-    <ul>
-        <li>Player ID: 32898</li>
-        <li>Sched ID: 428902</li>
-    </ul>
       <img src="metricTable.png" alt="image">
       <img src="rightArm.png" alt="image">
       <img src="rightArmViz.png" alt="image">
