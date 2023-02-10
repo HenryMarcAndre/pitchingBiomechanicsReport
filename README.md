@@ -39,8 +39,8 @@
       The earlier Verlander is rotating his lead wrist, the slower his fastball is going. A possible reason for this outcome could be that
     Verlander is becoming overly seperated during his motion, and is unable to rotate properly. This could also be referred to as "poor timing." </p>
       <img src="strideLengthViz.png" alt="image">
-      <p>Here you can see the effect stide length has on release speed. When Verlander is 
-        making a longer stride during his motion his fastblls are going faster. This suggests
+      <p>Here you can see the effect stride length has on release speed. When Verlander is 
+        making a longer stride during his motion his fastballs are going faster. This suggests
         that his lower body is moving with better mechanics and the result is a longer stride length, as well 
       as a faster pitch. A shorter stride length could also be a protection against a fast base runner and have nothing to do with Verlander's mechanics.  </p>
       <img src="lhipFootplantViz.png" alt="image">
@@ -51,7 +51,7 @@
     <p>Here you can see the impact the right shoulder position has on the release. This shows that when Verlander's shoulder 
       is higher at release he is throwing the ball faster. This is a good indicator that his mechanics are well timed up to the release. </p>
     <img src="quadNomid.png" alt="image">
-    <p>Pitcher's are usually judged by there worst pitches because those are the ones that get hit. From this graphic, you can 
+    <p>Pitcher's are usually judged by their worst pitches because those are the ones that get hit. From this graphic, you can 
       see that the majority of Verlander's slower fastballs were thrown up in the zone. This suggests a change in mechanics 
       when throwing high that is leading to less velocity. </p>
     <p>Baseball is a game of inches, and in this game Verlander's mechanics were off on some pitches, and great on others.
