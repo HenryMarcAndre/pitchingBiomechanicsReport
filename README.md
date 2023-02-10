@@ -1,6 +1,6 @@
 <html>
   <body>
-    <p>The goal of this project was to prepare a game report for a pitching coach, and then provide an evaluation of the pitcher's performance. Performance was limited to release speed. </p>
+    <p>The goal of this project was to prepare a game report for a pitching coach, and then provide an evaluation of the pitcher's performance. Performance was limited to release speed. Made using Python, SQL, and Tableau</p>
     <h1>Biomechanics Game Report: 2022-10-28</h1>
     <h3>Justin Verlander</h3>
       <img src="metricTable.png" alt="image">
