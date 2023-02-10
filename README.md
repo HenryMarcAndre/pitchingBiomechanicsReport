@@ -1,6 +1,5 @@
 <html>
   <head>
-    <title>Baseball Pitching Report</title>
   </head>
   <body>
     <h1>Biomechanics Game Report: 2022-10-28</h1>
