@@ -1,6 +1,4 @@
 <html>
-  <head>
-  </head>
   <body>
     <p>The goal of this project was to prepare a game report for a pitching coach, and then provide an evaluation of the pitcher's performance. Performance     was limited to release speed. </p>
     <h1>Biomechanics Game Report: 2022-10-28</h1>
