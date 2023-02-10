@@ -61,10 +61,10 @@
       see that the majority of Verlander's slower fastballs were thrown up in the zone. This suggests a change in mechanics 
       when throwing high that is leading to less velocity. </p>
     
-      <p>Baseball is a game of inches, and in this game Verlander's mechanics were off on some pitches, and great on others.
+    <p>Baseball is a game of inches, and in this game Verlander's mechanics were off on some pitches, and great on others.
          It is hard to say whether he performed well based on velocity alone, because his slowest pitches weren't the ones that got hit.
         However, if we are judging performance solely based on release speed, the metrics I highlighted in my analysis are what I believe to be
-      what had the biggest effect on performance.   </p>
+    what had the biggest effect on performance.</p>
   </body>
 </html>
 
